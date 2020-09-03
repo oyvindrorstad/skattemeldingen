@@ -1,4 +1,4 @@
-# Implementasjonsguide for innrapportering av skattemeldingen for næringsdrivende
+# Implementasjonsguide for innrapportering av skattemeldingen
 
 ## Bakgrunn og behov
 
